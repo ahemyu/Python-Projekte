@@ -1,0 +1,9 @@
+#  API key: PvlQOhwGZCP0iU8LzeYQ12g2E
+#  API Secret Key: pgkOgT5kmH94W9oKCZHmDfa9zlEjtAGCAGPij8RKdSCszsZ5kq
+#  Bearer Token: AAAAAAAAAAAAAAAAAAAAABIDlAEAAAAA2OHcZyK0ov5bGUU%2BQTjJFxNMyyw%3DqENajfTGw2BkczEgItsf3znmVllidr5r1RFFgdwglLRVmcbFmr
+#  Acces Token: 1507298470020927492-KA5n8R8nWTkIWmuvU120o7yycx8Ngy
+#  Access Token Secret: RQCYov5oZTHPyQCV7xBRs9VXYd09EM5yU11G6t5BpzWxE
+
+#  Client ID: UzYwVDgzeDViYkgzeTJIT3dKQkg6MTpjaQ
+#  CLient Secret: bx3ng6OVCLIoZuGSIj7ANZPVXoL-9t3_jdwXoYLakLIBA5uYFE
+
